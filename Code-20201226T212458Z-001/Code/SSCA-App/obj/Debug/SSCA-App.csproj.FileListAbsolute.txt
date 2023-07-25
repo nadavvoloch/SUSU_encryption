@@ -1,0 +1,52 @@
+c:\users\offir\documents\visual studio 2017\Projects\SSCA-App\SSCA-App\bin\Debug\SSCA-App.exe.config
+c:\users\offir\documents\visual studio 2017\Projects\SSCA-App\SSCA-App\bin\Debug\SSCA-App.exe
+c:\users\offir\documents\visual studio 2017\Projects\SSCA-App\SSCA-App\bin\Debug\SSCA-App.pdb
+c:\users\offir\documents\visual studio 2017\Projects\SSCA-App\SSCA-App\obj\Debug\SSCA-App.csprojResolveAssemblyReference.cache
+c:\users\offir\documents\visual studio 2017\Projects\SSCA-App\SSCA-App\obj\Debug\SSCA_App.Form1.resources
+c:\users\offir\documents\visual studio 2017\Projects\SSCA-App\SSCA-App\obj\Debug\SSCA_App.Properties.Resources.resources
+c:\users\offir\documents\visual studio 2017\Projects\SSCA-App\SSCA-App\obj\Debug\SSCA-App.csproj.GenerateResource.Cache
+c:\users\offir\documents\visual studio 2017\Projects\SSCA-App\SSCA-App\obj\Debug\SSCA-App.exe
+c:\users\offir\documents\visual studio 2017\Projects\SSCA-App\SSCA-App\obj\Debug\SSCA-App.pdb
+c:\users\offir\documents\visual studio 2017\Projects\SSCA-App\SSCA-App\obj\Debug\SSCA_App.progressForm.resources
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\אלגוריתם\13.6.20\SSCA-App\bin\Debug\SSCA-App.exe.config
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\אלגוריתם\13.6.20\SSCA-App\bin\Debug\SSCA-App.exe
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\אלגוריתם\13.6.20\SSCA-App\bin\Debug\SSCA-App.pdb
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\אלגוריתם\13.6.20\SSCA-App\obj\Debug\SSCA-App.csprojResolveAssemblyReference.cache
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\אלגוריתם\13.6.20\SSCA-App\obj\Debug\SSCA_App.Form1.resources
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\אלגוריתם\13.6.20\SSCA-App\obj\Debug\SSCA_App.progressForm.resources
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\אלגוריתם\13.6.20\SSCA-App\obj\Debug\SSCA_App.Properties.Resources.resources
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\אלגוריתם\13.6.20\SSCA-App\obj\Debug\SSCA-App.csproj.GenerateResource.Cache
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\אלגוריתם\13.6.20\SSCA-App\obj\Debug\SSCA-App.exe
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\אלגוריתם\13.6.20\SSCA-App\obj\Debug\SSCA-App.pdb
+C:\5-9-2020\SSCA-App\bin\Debug\SSCA-App.exe.config
+C:\5-9-2020\SSCA-App\bin\Debug\SSCA-App.exe
+C:\5-9-2020\SSCA-App\bin\Debug\SSCA-App.pdb
+C:\5-9-2020\SSCA-App\obj\Debug\SSCA-App.csprojAssemblyReference.cache
+C:\5-9-2020\SSCA-App\obj\Debug\SSCA_App.Form1.resources
+C:\5-9-2020\SSCA-App\obj\Debug\SSCA_App.progressForm.resources
+C:\5-9-2020\SSCA-App\obj\Debug\SSCA_App.Properties.Resources.resources
+C:\5-9-2020\SSCA-App\obj\Debug\SSCA-App.csproj.GenerateResource.cache
+C:\5-9-2020\SSCA-App\obj\Debug\SSCA-App.csproj.CoreCompileInputs.cache
+C:\5-9-2020\SSCA-App\obj\Debug\SSCA-App.exe
+C:\5-9-2020\SSCA-App\obj\Debug\SSCA-App.pdb
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\bin\Debug\SSCA-App.exe.config
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\bin\Debug\SSCA-App.exe
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\bin\Debug\SSCA-App.pdb
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA-App.csprojResolveAssemblyReference.cache
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA_App.Form1.resources
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA_App.progressForm.resources
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA_App.Properties.Resources.resources
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA-App.csproj.GenerateResource.Cache
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA-App.exe
+C:\Users\offir\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA-App.pdb
+C:\Users\Hadar\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\bin\Debug\SSCA-App.exe.config
+C:\Users\Hadar\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\bin\Debug\SSCA-App.exe
+C:\Users\Hadar\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\bin\Debug\SSCA-App.pdb
+C:\Users\Hadar\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA-App.csprojAssemblyReference.cache
+C:\Users\Hadar\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA_App.Form1.resources
+C:\Users\Hadar\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA_App.progressForm.resources
+C:\Users\Hadar\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA_App.Properties.Resources.resources
+C:\Users\Hadar\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA-App.csproj.GenerateResource.cache
+C:\Users\Hadar\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA-App.csproj.CoreCompileInputs.cache
+C:\Users\Hadar\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA-App.exe
+C:\Users\Hadar\Google Drive\הנדסת מחשבים\פרוייקט גמר\אופיר והדר\Final Code\Code\SSCA-App\obj\Debug\SSCA-App.pdb
